@@ -1,0 +1,4 @@
+how to run:
+step1: right click frontend folder and open in integrated terminal.
+step2: to run the html, do npm run start (in integrated terminal)
+step 3: to run generated data, .server.mjs
